@@ -167,7 +167,7 @@ int main(){
 
     printf("PIB: R$%.2f\n", pib2);
 
-    printf("Número de pontos turísticos: %d\n", p_turisticos2); //Fim da Carta 2
+    printf("Número de pontos turísticos: %d\n", p_turisticos2); //Fim da Carta 2 
 
     denpop2 = populacao2 / area2;
 
